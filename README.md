@@ -1,3 +1,3 @@
-# My Code Katas
+# Code Katas
 --------------------
-My code cata solutions to challenges from [codewars.com](http://www.codewars.com/users/acidghost).
+My code kata solutions to challenges from [codewars.com](http://www.codewars.com/users/acidghost).
